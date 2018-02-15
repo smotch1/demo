@@ -4,4 +4,4 @@ This is a simple readme file
 
 adding some text
 
-causing some issues!
+this will cause a conflict!
